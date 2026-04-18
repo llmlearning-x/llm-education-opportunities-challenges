@@ -30,9 +30,17 @@
 }
 
 % ============ 作者信息 ============
-\author{张三\textsuperscript{1}}
-\affil{\textsuperscript{1}清华大学}
+% 使用下方的手动格式，authblk 的 \author/\affil 与手动 center 块会冲突
 \date{}
+
+% ============ 参考文献格式：去掉序号和缩进 ============
+\makeatletter
+% 彻底禁用标签宽度，不产生缩进占位
+\def\@biblabel#1{}
+% 参考文献条目之间紧凑排版
+\setlength{\bibhang}{0pt}
+\setlength{\bibitemsep}{0.12ex}
+\makeatother
 
 % ============ 宏定义 ============
 \newcommand{\LLM}{\textbf{LLM}}
