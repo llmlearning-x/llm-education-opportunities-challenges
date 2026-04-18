@@ -40,7 +40,9 @@ John~Seely Brown and Robert~R Burton.
 
 \bibitem[Brown and Lee(2024)]{brown2024socratic}
 Peter Brown and Mei Lee.
-\newblock Socratic tutoring with llms: A pedagogical analysis, 2024.
+\newblock Socratic tutoring with llms: A pedagogical analysis.
+\newblock In \emph{Proceedings of the 17th International Conference on
+  Educational Data Mining}, pages 321--332, 2024.
 
 \bibitem[Chassignet and Bouzroud(2024)]{chassignet2024llm}
 Martin Chassignet and Imane Bouzroud.
@@ -110,9 +112,10 @@ John~F Pane et~al.
 \newblock \emph{Educational Technology Research and Development}, 65:\penalty0
   1061--1083, 2017.
 
-\bibitem[Perelman(2024)]{perelman2024detection}
-Sheldon Perelman.
-\newblock Detecting ai-generated text: Limitations of current methods, 2024.
+\bibitem[Perelman et~al.(2024)]{perelman2024detection}
+Sheldon Perelman et~al.
+\newblock Detecting ai-generated text: Limitations of current methods.
+\newblock \emph{Journal of Academic Ethics}, 22:\penalty0 1--18, 2024.
 
 \bibitem[Riechelman et~al.(2024)]{riechelman2024llm}
 Eliana Riechelman et~al.
@@ -130,7 +133,8 @@ Hugo Touvron et~al.
 \bibitem[Wang et~al.(2025)]{llmpaa2025}
 Xiaoming Wang et~al.
 \newblock Large language model-powered automated assessment: A systematic
-  review, 2025.
+  review.
+\newblock \emph{Applied Sciences}, 15\penalty0 (10):\penalty0 5683, 2025.
 
 \bibitem[Yue et~al.(2024)]{yue2024privacy}
 Qin Yue et~al.
