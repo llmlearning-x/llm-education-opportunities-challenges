@@ -33,14 +33,20 @@
 % 使用下方的手动格式，authblk 的 \author/\affil 与手动 center 块会冲突
 \date{}
 
-% ============ 参考文献格式：去掉序号和缩进 ============
+% ============ 参考文献格式 ============
+% 导言区预设置（makeatletter 使 @ 成为字母）
 \makeatletter
-% 彻底禁用标签宽度，不产生缩进占位
-\def\@biblabel#1{}
-% 参考文献条目之间紧凑排版
-\setlength{\bibhang}{0pt}
-\setlength{\bibitemsep}{0.12ex}
+\def\@biblabel#1{}%
+\setlength{\bibhang}{0pt}%
+\setlength{\bibitemsep}{0.3ex}%
 \makeatother
+% 文档体中再次覆盖（双重保险）
+\AtBeginDocument{
+  \makeatletter
+  \def\@biblabel#1{}%
+  \setlength{\bibhang}{0pt}%
+  \makeatother
+}
 
 % ============ 宏定义 ============
 \newcommand{\LLM}{\textbf{LLM}}
