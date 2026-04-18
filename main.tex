@@ -33,20 +33,21 @@
 % 使用下方的手动格式，authblk 的 \author/\affil 与手动 center 块会冲突
 \date{}
 
-% ============ 参考文献格式 ============
-% 导言区预设置（makeatletter 使 @ 成为字母）
+% ============ 参考文献格式：无序号、无缩进 ============
 \makeatletter
+% 禁用所有编号输出
 \def\@biblabel#1{}%
-\setlength{\bibhang}{0pt}%
-\setlength{\bibitemsep}{0.3ex}%
-\makeatother
-% 文档体中再次覆盖（双重保险）
-\AtBeginDocument{
-  \makeatletter
-  \def\@biblabel#1{}%
+\let\theenumiv\@empty
+% 修改 thebibliography 环境：去掉缩进占位
+\renewenvironment{thebibliography}[1]{%
+  \section*{References}%
   \setlength{\bibhang}{0pt}%
-  \makeatother
-}
+  \setlength{\itemindent}{-\leftmargin}%
+  \setlength{\itemsep}{0.3ex}%
+  \usecounter{enumiv}%
+  \let\makelabel\@biblabel
+}{\endlist}%
+\makeatother
 
 % ============ 宏定义 ============
 \newcommand{\LLM}{\textbf{LLM}}
