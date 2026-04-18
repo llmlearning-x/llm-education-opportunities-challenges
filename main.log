@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,7 +510,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.70     \textbf{张三}
-                        \textsuperscript{1} \\
+                         \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -523,20 +523,10 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.70     \textbf{张三}
-                        \textsuperscript{1} \\
+                         \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 
 ! LaTeX Error: Unicode character 清 (U+6E05)
                not set up for use with LaTeX.
@@ -545,8 +535,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71     \textsuperscript{1}\textit{清华大学}
-                                                  \\
+l.71     \textit{清华大学}
+                               \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -558,8 +548,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71     \textsuperscript{1}\textit{清华大学}
-                                                  \\
+l.71     \textit{清华大学}
+                               \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -571,8 +561,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71     \textsuperscript{1}\textit{清华大学}
-                                                  \\
+l.71     \textit{清华大学}
+                               \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -584,8 +574,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71     \textsuperscript{1}\textit{清华大学}
-                                                  \\
+l.71     \textit{清华大学}
+                               \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -623,7 +613,17 @@ s been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.148 ... and Automated Writing Evaluation (AWE).}
                                                    A well-established line o...
- <./figures/taxonomy.png (PNG copy)>] [5
+ <./figures/taxonomy.png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 159
+.
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 159
+.
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -667,8 +667,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \bibitem[]{khan2024khanmigo}
-                                
+l.8 \bibitem{khan2024khanmigo}
+                              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -681,11 +681,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 17119B32F4DCD392F5AEDEA38064A5A3;3995.
  ) 
 Here is how much of TeX's memory you used:
- 12322 strings out of 468830
- 187287 string characters out of 5451466
+ 12312 strings out of 468830
+ 187148 string characters out of 5451466
  615338 words of memory out of 5000000
- 40956 multiletter control sequences out of 15000+600000
- 638599 words of font info for 81 fonts, out of 8000000 for 9000
+ 40946 multiletter control sequences out of 15000+600000
+ 636298 words of font info for 71 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  75i,10n,79p,1548b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen
@@ -696,7 +696,7 @@ lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026basic/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 347056 bytes).
+Output written on main.pdf (11 pages, 346885 bytes).
 PDF statistics:
  262 PDF objects out of 1000 (max. 8388607)
  232 compressed objects within 3 object streams
