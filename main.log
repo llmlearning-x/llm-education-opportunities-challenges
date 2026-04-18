@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,23 +395,7 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [preprint].
 
-(./main.aux
-
-! Package natbib Error: Bibliography not compatible with author-year citations.
-
-(natbib)                Press <return> to continue in numerical citation style.
-
-
-See the natbib package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.116 ...and\NAT@force@numbers{}\NAT@force@numbers
-                                                  
-Check the bibliography entries for non-compliant syntax,
-or select author-year BibTeX style, e.g. plainnat
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
@@ -583,19 +567,7 @@ You may provide a definition with
 
 {/Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdf
 tex.map}] [2]
-
-Package natbib Warning: Author undefined for citation`arslan2024large' 
-(natbib)                on page 3 on input line 113.
-
-
-Package natbib Warning: Author undefined for citation`kasneci2023chatgpt' 
-(natbib)                on page 3 on input line 113.
-
-
-Package natbib Warning: Author undefined for citation`chassignet2024llm' 
-(natbib)                on page 3 on input line 113.
-
-<figures/taxonomy.png, id=119, 2409.0pt x 1606.0pt>
+<figures/taxonomy.png, id=129, 2409.0pt x 1606.0pt>
 File: figures/taxonomy.png Graphic file (type png)
 <use figures/taxonomy.png>
 Package pdftex.def Info: figures/taxonomy.png  used on input line 125.
@@ -628,8 +600,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.180 
-      ] [6] [7] [8] [9] (./main.bbl
+l.179 \textbf{Problem and Scenario Generation.}
+                                                In domains such as computer ...
+] [6] [7] [8] [9] (./main.bbl
 ! Argument of \natexlab has an extra }.
 <inserted text> 
                 \par 
@@ -672,7 +645,27 @@ l.8 \bibitem{khan2024khanmigo}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[10]) [11] (./main.aux)
+[10]) [11] (./main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+
+! Package natbib Error: Bibliography not compatible with author-year citations.
+
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ...and\NAT@force@numbers{}\NAT@force@numbers
+                                                  
+Check the bibliography entries for non-compliant syntax,
+or select author-year BibTeX style, e.g. plainnat
+
+)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -683,11 +676,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  12312 strings out of 468830
  187148 string characters out of 5451466
- 615338 words of memory out of 5000000
+ 614810 words of memory out of 5000000
  40946 multiletter control sequences out of 15000+600000
  636298 words of font info for 71 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,10n,79p,1548b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1548b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen
 /ec/tcrm1200.600pk></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/pub
@@ -696,10 +689,10 @@ lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026basic/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 346885 bytes).
+Output written on main.pdf (11 pages, 348188 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
+ 301 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
  64 named destinations out of 1000 (max. 500000)
  166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
