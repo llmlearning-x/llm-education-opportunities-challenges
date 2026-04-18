@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,43 +372,27 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [preprint].
 
-(./main.aux
-
-! Package natbib Error: Bibliography not compatible with author-year citations.
-
-(natbib)                Press <return> to continue in numerical citation style.
-
-
-See the natbib package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.116 ...and\NAT@force@numbers{}\NAT@force@numbers
-                                                  
-Check the bibliography entries for non-compliant syntax,
-or select author-year BibTeX style, e.g. plainnat
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -473,7 +457,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 58.
+Package hyperref Info: Link coloring ON on input line 48.
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -486,7 +470,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71     \textbf{张三}
+l.61     \textbf{张三}
                          \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -499,7 +483,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71     \textbf{张三}
+l.61     \textbf{张三}
                          \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -512,7 +496,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72     \textit{清华大学}
+l.62     \textit{清华大学}
                                \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -525,7 +509,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72     \textit{清华大学}
+l.62     \textit{清华大学}
                                \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -538,7 +522,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72     \textit{清华大学}
+l.62     \textit{清华大学}
                                \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -551,7 +535,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72     \textit{清华大学}
+l.62     \textit{清华大学}
                                \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -559,376 +543,226 @@ You may provide a definition with
 [1
 
 {/Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map}] [2]
+tex.map}]
 
-Package natbib Warning: Author undefined for citation`arslan2024large' 
-(natbib)                on page 3 on input line 114.
-
-
-Package natbib Warning: Author undefined for citation`kasneci2023chatgpt' 
-(natbib)                on page 3 on input line 114.
+Package natbib Warning: Citation `openai2023gpt4' on page 2 undefined on input 
+line 84.
 
 
-Package natbib Warning: Author undefined for citation`chassignet2024llm' 
-(natbib)                on page 3 on input line 114.
+Package natbib Warning: Citation `anthropic2023claude' on page 2 undefined on i
+nput line 84.
 
-<figures/taxonomy.png, id=119, 2409.0pt x 1606.0pt>
+
+Package natbib Warning: Citation `touvron2023llama' on page 2 undefined on inpu
+t line 84.
+
+
+Package natbib Warning: Citation `gemini2024gemini' on page 2 undefined on inpu
+t line 84.
+
+
+Package natbib Warning: Citation `vandLeemput1997intelligent' on page 2 undefin
+ed on input line 102.
+
+
+Package natbib Warning: Citation `pane2017effectiveness' on page 2 undefined on
+ input line 102.
+
+
+Package natbib Warning: Citation `brown1977sophie' on page 2 undefined on input
+ line 102.
+
+[2]
+
+Package natbib Warning: Citation `arslan2024large' on page 3 undefined on input
+ line 104.
+
+
+Package natbib Warning: Citation `kasneci2023chatgpt' on page 3 undefined on in
+put line 104.
+
+
+Package natbib Warning: Citation `chassignet2024llm' on page 3 undefined on inp
+ut line 104.
+
+<figures/taxonomy.png, id=105, 2409.0pt x 1606.0pt>
 File: figures/taxonomy.png Graphic file (type png)
 <use figures/taxonomy.png>
-Package pdftex.def Info: figures/taxonomy.png  used on input line 126.
+Package pdftex.def Info: figures/taxonomy.png  used on input line 116.
 (pdftex.def)             Requested size: 399.29463pt x 266.17934pt.
+
+Package natbib Warning: Citation `lpitutor2025' on page 3 undefined on input li
+ne 126.
+
+
+Package natbib Warning: Citation `brown2024socratic' on page 3 undefined on inp
+ut line 126.
+
+
+Package natbib Warning: Citation `liu2024knowledge' on page 3 undefined on inpu
+t line 128.
+
 [3]
-Overfull \hbox (0.14539pt too wide) in paragraph at lines 140--141
+
+Package natbib Warning: Citation `chassignet2024llm' on page 4 undefined on inp
+ut line 130.
+
+
+Overfull \hbox (0.14539pt too wide) in paragraph at lines 130--131
 []\OT1/cmr/bx/n/12 Language Learn-ing. LLMs\OT1/cmr/m/n/12 demonstrate par-tic-
 u-lar util-ity in lan-guage ed-u-ca-tion, where
  []
+
+
+Package natbib Warning: Citation `riechelman2024llm' on page 4 undefined on inp
+ut line 139.
+
+
+Package natbib Warning: Citation `llmpaa2025' on page 4 undefined on input line
+ 139.
 
 [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.149 ... and Automated Writing Evaluation (AWE).}
-                                                   A well-established line o...
- <./figures/taxonomy.png (PNG copy)>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 160
+l.140 
+       <./figures/taxonomy.png (PNG copy)>]
+
+Package natbib Warning: Citation `soll2024quizgen' on page 5 undefined on input
+ line 141.
+
+
+Package natbib Warning: Citation `narciss2008feedback' on page 5 undefined on i
+nput line 143.
+
+
+Package natbib Warning: Citation `kasneci2023chatgpt' on page 5 undefined on in
+put line 143.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 150
 .
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 160
+LaTeX Font Info:    Trying to load font information for U+msb on input line 150
 .
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5
+)
+
+Package natbib Warning: Citation `khan2024khanmigo' on page 5 undefined on inpu
+t line 168.
+
+
+Package natbib Warning: Citation `soll2024quizgen' on page 5 undefined on input
+ line 170.
+
+
+Package natbib Warning: Citation `pandey2024llmcurriculum' on page 5 undefined 
+on input line 172.
+
+[5
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.181 
-      ] [6] [7] [8] [9] (./main.bbl
-! Argument of \natexlab has an extra }.
-<inserted text> 
-                \par 
-l.2 \providecommand{\natexlab}
-                              [1]{#1}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
+l.173 
+      ]
 
-Runaway argument?
-! Paragraph ended before \natexlab was complete.
-<to be read again> 
-                   \par 
-l.2 \providecommand{\natexlab}
-                              [1]{#1}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! You can't use `macro parameter character #' in horizontal mode.
-l.2 \providecommand{\natexlab}[1]{#
-                                   1}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+Package natbib Warning: Citation `baidoo2024teacherai' on page 6 undefined on i
+nput line 179.
 
 
-Underfull \hbox (badness 10000) detected at line 8
-[][]
- []
+Package natbib Warning: Citation `kasneci2023chatgpt' on page 6 undefined on in
+put line 181.
 
 
-Underfull \hbox (badness 10000) detected at line 13
-[][]
- []
+Package natbib Warning: Citation `long2024data' on page 6 undefined on input li
+ne 192.
 
 
-Underfull \hbox (badness 10000) detected at line 18
-[][]
- []
+Package natbib Warning: Citation `yue2024privacy' on page 6 undefined on input 
+line 194.
+
+[6]
+
+Package natbib Warning: Citation `zhao2019bias' on page 7 undefined on input li
+ne 199.
 
 
-Underfull \hbox (badness 10000) detected at line 25
-[][]
- []
+Package natbib Warning: Citation `kasneci2023chatgpt' on page 7 undefined on in
+put line 199.
 
 
-Underfull \hbox (badness 10000) detected at line 29
-[][]
- []
+Package natbib Warning: Citation `bai2022constitutional' on page 7 undefined on
+ input line 201.
 
 
-Underfull \hbox (badness 10000) detected at line 34
-[][]
- []
+Package natbib Warning: Citation `zhao2024academic' on page 7 undefined on inpu
+t line 206.
 
 
-Underfull \hbox (badness 10000) detected at line 41
-[][]
- []
+Package natbib Warning: Citation `perelman2024detection' on page 7 undefined on
+ input line 208.
 
 
-Underfull \hbox (badness 10000) detected at line 47
-[][]
- []
+Package natbib Warning: Citation `gpt4hallucination2024' on page 7 undefined on
+ input line 213.
 
 
-Underfull \hbox (badness 10000) detected at line 52
-[][]
- []
+Package natbib Warning: Citation `arslan2024large' on page 7 undefined on input
+ line 220.
+
+[7]
+
+Package natbib Warning: Citation `edubench2025' on page 8 undefined on input li
+ne 222.
 
 
-Underfull \hbox (badness 10000) detected at line 57
-[][]
- []
+Package natbib Warning: Citation `gemini2024gemini' on page 8 undefined on inpu
+t line 233.
 
 
-Underfull \hbox (badness 10000) detected at line 61
-[][]
- []
+Package natbib Warning: Citation `hu2022lora' on page 8 undefined on input line
+ 238.
 
 
-Underfull \hbox (badness 10000) detected at line 65
-[][]
- []
+Package natbib Warning: Citation `yue2024privacy' on page 8 undefined on input 
+line 243.
 
+[8] (./main.bbl [9] [10])
 
-Underfull \hbox (badness 10000) detected at line 69
-[][]
- []
+Package natbib Warning: There were undefined citations.
 
-
-Underfull \hbox (badness 10000) detected at line 74
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 79
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 85
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 89
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 94
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 100
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 104
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 108
-[][]
- []
-
-[10]
-Underfull \hbox (badness 10000) detected at line 115
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 120
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 124
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 129
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 133
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 139
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 143
-[][]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 148
-[][]
- []
-
-) [11] (./main.aux)
+[11] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 17119B32F4DCD392F5AEDEA38064A5A3;3995.
  ) 
 Here is how much of TeX's memory you used:
- 12311 strings out of 468830
- 187138 string characters out of 5451466
- 615222 words of memory out of 5000000
- 40945 multiletter control sequences out of 15000+600000
+ 12196 strings out of 468830
+ 184401 string characters out of 5451466
+ 614852 words of memory out of 5000000
+ 40859 multiletter control sequences out of 15000+600000
  636298 words of font info for 71 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,10n,79p,1548b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.hu2022lora} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.edubench2025} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.gpt4hallucination2024} has been referenced but
- does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.perelman2024detection} has been referenced but
- does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.zhao2024academic} has been referenced but does
- not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.bai2022constitutional} has been referenced but
- does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.zhao2019bias} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.yue2024privacy} has been referenced but does n
-ot exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.long2024data} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.baidoo2024teacherai} has been referenced but d
-oes not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.pandey2024llmcurriculum} has been referenced b
-ut does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.khan2024khanmigo} has been referenced but does
- not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.narciss2008feedback} has been referenced but d
-oes not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.soll2024quizgen} has been referenced but does 
-not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.llmpaa2025} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.riechelman2024llm} has been referenced but doe
-s not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.liu2024knowledge} has been referenced but does
- not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.brown2024socratic} has been referenced but doe
-s not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.lpitutor2025} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.chassignet2024llm} has been referenced but doe
-s not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.kasneci2023chatgpt} has been referenced but do
-es not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.arslan2024large} has been referenced but does 
-not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.brown1977sophie} has been referenced but does 
-not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.pane2017effectiveness} has been referenced but
- does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.vandLeemput1997intelligent} has been reference
-d but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.gemini2024gemini} has been referenced but does
- not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.touvron2023llama} has been referenced but does
- not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.anthropic2023claude} has been referenced but d
-oes not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.openai2023gpt4} has been referenced but does n
-ot exist, replaced by a fixed one
-
- </Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen/e
-c/tcrm1200.600pk></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026basic/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 346693 bytes).
+ 75i,10n,79p,1548b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen
+/ec/tcrm1200.600pk></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026basic/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (11 pages, 343426 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
  166 words of extra memory for PDF output out of 10000 (max. 10000000)
 

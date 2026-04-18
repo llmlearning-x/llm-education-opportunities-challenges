@@ -1,46 +1,51 @@
 This is BibTeX, Version 0.99e (TeX Live 2026)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-The style file: plainnat.bst
+The style file: unsrtnat-noitem.bst
+"{" can't start a style-file command---line 384 of file unsrtnat-noitem.bst
+ : 
+ : { newline$
+(Error may have been on previous line)
 Database file #1: refs.bib
 You've used 29 entries,
-            2773 wiz_defined-function locations,
-            728 strings with 8454 characters,
-and the built_in function-call counts, 10889 in all, are:
-= -- 968
-> -- 536
+            2453 wiz_defined-function locations,
+            683 strings with 8039 characters,
+and the built_in function-call counts, 7779 in all, are:
+= -- 658
+> -- 212
 < -- 32
-+ -- 188
-- -- 159
-* -- 644
-:= -- 1635
++ -- 111
+- -- 53
+* -- 419
+:= -- 1115
 add.period$ -- 72
 call.type$ -- 29
-change.case$ -- 122
+change.case$ -- 58
 chr.to.int$ -- 29
-cite$ -- 58
-duplicate$ -- 522
-empty$ -- 1025
-format.name$ -- 218
-if$ -- 2365
+cite$ -- 0
+duplicate$ -- 464
+empty$ -- 938
+format.name$ -- 112
+if$ -- 1808
 int.to.chr$ -- 1
-int.to.str$ -- 1
+int.to.str$ -- 29
 missing$ -- 11
 newline$ -- 137
-num.names$ -- 116
-pop$ -- 331
+num.names$ -- 58
+pop$ -- 296
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 29
 quote$ -- 0
-skip$ -- 484
+skip$ -- 343
 stack$ -- 0
 substring$ -- 292
-swap$ -- 58
+swap$ -- 87
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 319
+type$ -- 116
 warning$ -- 0
-while$ -- 106
+while$ -- 48
 width$ -- 0
-write$ -- 334
+write$ -- 218
+(There was 1 error message)
