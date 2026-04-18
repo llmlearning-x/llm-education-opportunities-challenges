@@ -1,151 +1,151 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{29}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\item
+\bibitem[OpenAI(2023)]{openai2023gpt4}
 OpenAI.
 \newblock Gpt-4 technical report, 2023.
 
-\item
+\bibitem[Anthropic(2024)]{anthropic2023claude}
 Anthropic.
 \newblock Claude 3.5 sonnet, 2024.
 \newblock Available at: anthropic.com.
 
-\item
+\bibitem[Touvron et~al.(2023)]{touvron2023llama}
 Hugo Touvron et~al.
 \newblock Llama: Open and efficient foundation language models, 2023.
 
-\item
+\bibitem[DeepMind(2024)]{gemini2024gemini}
 Google DeepMind.
 \newblock Gemini: A family of highly capable multimodal models, 2024.
 
-\item
+\bibitem[Leemput et~al.(1997)]{vandLeemput1997intelligent}
 Koen Van~de Leemput et~al.
 \newblock Intelligent tutoring systems: A survey.
 \newblock \emph{AI Review}, 11:\penalty0 447--467, 1997.
 
-\item
+\bibitem[Pane et~al.(2017)]{pane2017effectiveness}
 John~F Pane et~al.
 \newblock Effectiveness of cognitive algebra-based intelligent tutoring
   systems.
 \newblock \emph{Educational Technology Research and Development}, 65:\penalty0
   1061--1083, 2017.
 
-\item
+\bibitem[Brown and Burton(1977)]{brown1977sophie}
 John~Seely Brown and Robert~R Burton.
 \newblock Sophie: A sophisticated instructional environment for teaching
   electronic troubleshooting.
 \newblock In \emph{Proceedings of the 2nd International Joint Conference on
   Artificial Intelligence}, pages 766--768. Morgan Kaufmann, 1977.
 
-\item
+\bibitem[Arslan et~al.(2024)]{arslan2024large}
 Semih Arslan et~al.
 \newblock Large language models in education: A systematic review of empirical
   studies.
 \newblock \emph{Computers and Education: Artificial Intelligence}, 6:\penalty0
   100231, 2024.
 
-\item
+\bibitem[Kasneci et~al.(2023)]{kasneci2023chatgpt}
 Enkelejda Kasneci et~al.
 \newblock Chatgpt in education: A blessing or a curse?
 \newblock \emph{Frontiers in Education}, 8:\penalty0 1168279, 2023.
 
-\item
+\bibitem[Chassignet and Bouzroud(2024)]{chassignet2024llm}
 Martin Chassignet and Imane Bouzroud.
 \newblock Llm applications in language learning: A comprehensive review.
 \newblock \emph{arXiv preprint arXiv:2403.18942}, 2024.
 
-\item
+\bibitem[Liu et~al.(2025)]{lpitutor2025}
 Wei Liu et~al.
 \newblock Lpitutor: An llm-based personalized intelligent tutoring system using
   rag and prompt engineering.
 \newblock \emph{PeerJ Computer Science}, 11:\penalty0 e2991, 2025.
 
-\item
+\bibitem[Brown and Lee(2024)]{brown2024socratic}
 Peter Brown and Mei Lee.
 \newblock Socratic tutoring with llms: A pedagogical analysis.
 \newblock In \emph{Proceedings of the 17th International Conference on
   Educational Data Mining}, pages 321--332, 2024.
 
-\item
+\bibitem[Liu et~al.(2024)]{liu2024knowledge}
 Yujia Liu et~al.
 \newblock Knowledge tracing with large language models, 2024.
 
-\item
+\bibitem[Riechelman et~al.(2024)]{riechelman2024llm}
 Eliana Riechelman et~al.
 \newblock On automated essay grading using large language models, 2024.
 
-\item
+\bibitem[Wang et~al.(2025)]{llmpaa2025}
 Xiaoming Wang et~al.
 \newblock Large language model-powered automated assessment: A systematic
   review.
 \newblock \emph{Applied Sciences}, 15\penalty0 (10):\penalty0 5683, 2025.
 
-\item
+\bibitem[Soll et~al.(2024)]{soll2024quizgen}
 David Soll et~al.
 \newblock Quizgen: Generating assessment items with large language models,
   2024.
 
-\item
+\bibitem[Narciss(2008)]{narciss2008feedback}
 Susanne Narciss.
 \newblock Designing and evaluating tutoring feedback strategies for digital
   learning.
 \newblock \emph{Journal of Frontiers in Education}, pages 225--252, 2008.
 
-\item
+\bibitem[Academy(2024)]{khan2024khanmigo}
 Khan Academy.
 \newblock Khan academy introduces khanmigo: An ai-powered tutor, 2024.
 \newblock Available at: khanacademy.org.
 
-\item
+\bibitem[Pandey and Dwivedi(2024)]{pandey2024llmcurriculum}
 Rajesh Pandey and Ashish Dwivedi.
 \newblock Curriculum design with llms: Opportunities and pitfalls, 2024.
 
-\item
+\bibitem[Baidoo-Anu and Owusu~Ansah(2024)]{baidoo2024teacherai}
 David Baidoo-Anu and Livingstone Owusu~Ansah.
 \newblock Ai copilots for teachers: Augmenting educational practice with large
   language models, 2024.
 
-\item
+\bibitem[Long and Kim(2024)]{long2024data}
 Jun Long and Soo-Yeon Kim.
 \newblock Educational data privacy in the age of llms: Challenges and
   compliance strategies, 2024.
 
-\item
+\bibitem[Yue et~al.(2024)]{yue2024privacy}
 Qin Yue et~al.
 \newblock Federated learning for privacy-preserving educational ai, 2024.
 
-\item
+\bibitem[Zhao et~al.(2019)]{zhao2019bias}
 Jieyu Zhao et~al.
 \newblock Mitigating gender bias in natural language processing, 2019.
 
-\item
+\bibitem[Bai et~al.(2022)]{bai2022constitutional}
 Yuntao Bai et~al.
 \newblock Constitutional ai: Harmlessness from ai feedback, 2022.
 
-\item
+\bibitem[Zhao et~al.(2024)]{zhao2024academic}
 Alice Zhao et~al.
 \newblock Academic integrity in the age of large language models: Challenges
   and responses, 2024.
 
-\item
+\bibitem[Perelman et~al.(2024)]{perelman2024detection}
 Sheldon Perelman et~al.
 \newblock Detecting ai-generated text: Limitations of current methods.
 \newblock \emph{Journal of Academic Ethics}, 22:\penalty0 1--18, 2024.
 
-\item
+\bibitem[Ji et~al.(2024)]{gpt4hallucination2024}
 Ziwei Ji et~al.
 \newblock Hallucination in large language models: A survey, 2024.
 
-\item
+\bibitem[Chen et~al.(2025)]{edubench2025}
 Lin Chen et~al.
 \newblock Edu-benchmark: A comprehensive benchmark for educational ai systems,
   2025.
 
-\item
+\bibitem[Hu et~al.(2022)]{hu2022lora}
 Edward~J Hu et~al.
 \newblock Lora: Low-rank adaptation of large language models, 2022.
 
