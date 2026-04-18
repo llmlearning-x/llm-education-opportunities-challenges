@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.16)  18 APR 2026 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -579,7 +579,70 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
                                                   \__shipout_drop_firstpage_...
 l.165 \textbf{Problem and Scenario Generation.}
                                                 In domains such as computer ...
-] [6] [7] [8] [9] (./main.bbl [10]) [11] (./main.aux)
+] [6] [7] [8] [9] (./main.bbl
+! Argument of \natexlab has an extra }.
+<inserted text> 
+                \par 
+l.2 \providecommand{\natexlab}
+                              [1]{#1}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \natexlab was complete.
+<to be read again> 
+                   \par 
+l.2 \providecommand{\natexlab}
+                              [1]{#1}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.2 \providecommand{\natexlab}[1]{#
+                                   1}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \bibitem[]{khan2024khanmigo}
+                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[10]) [11] (./main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+
+! Package natbib Error: Bibliography not compatible with author-year citations.
+
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ...and\NAT@force@numbers{}\NAT@force@numbers
+                                                  
+Check the bibliography entries for non-compliant syntax,
+or select author-year BibTeX style, e.g. plainnat
+
+)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -594,7 +657,7 @@ Here is how much of TeX's memory you used:
  40955 multiletter control sequences out of 15000+600000
  638599 words of font info for 81 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,10n,79p,1548b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1548b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/fanghua/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen
 /ec/tcrm1200.600pk></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/pub
@@ -603,7 +666,7 @@ lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026basic/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 348354 bytes).
+Output written on main.pdf (11 pages, 348378 bytes).
 PDF statistics:
  301 PDF objects out of 1000 (max. 8388607)
  271 compressed objects within 3 object streams
