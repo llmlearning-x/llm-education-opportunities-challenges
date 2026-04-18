@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Database file #1: refs.bib
+Warning--I'm ignoring llmpaa2025's extra "year" field
+--line 116 of file refs.bib
+Warning--I'm ignoring baidoo2024teacherai's extra "year" field
+--line 149 of file refs.bib
+Warning--I'm ignoring perelman2024detection's extra "year" field
+--line 195 of file refs.bib
+Warning--I'm ignoring brown2024socratic's extra "year" field
+--line 258 of file refs.bib
+You've used 29 entries,
+            2773 wiz_defined-function locations,
+            726 strings with 8436 characters,
+and the built_in function-call counts, 10468 in all, are:
+= -- 916
+> -- 526
+< -- 31
++ -- 185
+- -- 156
+* -- 603
+:= -- 1576
+add.period$ -- 69
+call.type$ -- 29
+change.case$ -- 122
+chr.to.int$ -- 29
+cite$ -- 58
+duplicate$ -- 495
+empty$ -- 995
+format.name$ -- 214
+if$ -- 2268
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 8
+newline$ -- 134
+num.names$ -- 116
+pop$ -- 344
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 472
+stack$ -- 0
+substring$ -- 232
+swap$ -- 48
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 319
+warning$ -- 0
+while$ -- 100
+width$ -- 0
+write$ -- 325
+(There were 4 warnings)
